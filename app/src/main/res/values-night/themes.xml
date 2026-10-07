@@ -3,6 +3,5 @@
     <!--Top level DayNight theme to be used in AndroidManifest.xml-->
     <style name="Theme.Civilian.CPR" parent="Base.Theme.Civilian.CPR">
         <!--Material color attributes (dark theme) -->
-        <item name="android:statusBarColor" tools:ignore="NewApi">?colorSurface</item>
     </style>
 </resources>
