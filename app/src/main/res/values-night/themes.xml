@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--Top level DayNight theme to be used in AndroidManifest.xml-->
-    <style name="Theme.Civilian.CPR" parent="Base.Theme.Civilian.CPR">
+    <style name="Theme.CivilianCPR" parent="Base.Theme.CivilianCPR">
         <!--Material color attributes (dark theme) -->
     </style>
 </resources>

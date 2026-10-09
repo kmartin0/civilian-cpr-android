@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.km.civilian.cpr"
+    namespace = "nl.kmartin.civiliancpr"
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.km.civilian.cpr"
+        applicationId = "nl.kmartin.civiliancpr"
         minSdk = 23
         targetSdk = 37
         versionCode = 1

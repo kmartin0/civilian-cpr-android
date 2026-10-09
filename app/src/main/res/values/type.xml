@@ -16,55 +16,55 @@
 
 <resources>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Headline1" parent="TextAppearance.MaterialComponents.Headline1">
+    <style name="TextAppearance.Theme.CivilianCPR.Headline1" parent="TextAppearance.MaterialComponents.Headline1">
         <item name="fontFamily">@font/poppins_light</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Headline2" parent="TextAppearance.MaterialComponents.Headline2">
+    <style name="TextAppearance.Theme.CivilianCPR.Headline2" parent="TextAppearance.MaterialComponents.Headline2">
         <item name="fontFamily">@font/poppins_light</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Headline3" parent="TextAppearance.MaterialComponents.Headline3">
+    <style name="TextAppearance.Theme.CivilianCPR.Headline3" parent="TextAppearance.MaterialComponents.Headline3">
         <item name="fontFamily">@font/poppins_regular</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
+    <style name="TextAppearance.Theme.CivilianCPR.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
         <item name="fontFamily">@font/poppins_regular</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+    <style name="TextAppearance.Theme.CivilianCPR.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
         <item name="fontFamily">@font/poppins_regular</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+    <style name="TextAppearance.Theme.CivilianCPR.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
         <item name="fontFamily">@font/poppins_medium</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+    <style name="TextAppearance.Theme.CivilianCPR.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
         <item name="fontFamily">@font/poppins_regular</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+    <style name="TextAppearance.Theme.CivilianCPR.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
         <item name="fontFamily">@font/poppins_medium</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Body1" parent="TextAppearance.MaterialComponents.Body1">
+    <style name="TextAppearance.Theme.CivilianCPR.Body1" parent="TextAppearance.MaterialComponents.Body1">
         <item name="fontFamily">@font/poppins_regular</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Body2" parent="TextAppearance.MaterialComponents.Body2">
+    <style name="TextAppearance.Theme.CivilianCPR.Body2" parent="TextAppearance.MaterialComponents.Body2">
         <item name="fontFamily">@font/poppins_regular</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Button" parent="TextAppearance.MaterialComponents.Button">
+    <style name="TextAppearance.Theme.CivilianCPR.Button" parent="TextAppearance.MaterialComponents.Button">
         <item name="fontFamily">@font/poppins_medium</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Caption" parent="TextAppearance.MaterialComponents.Caption">
+    <style name="TextAppearance.Theme.CivilianCPR.Caption" parent="TextAppearance.MaterialComponents.Caption">
         <item name="fontFamily">@font/poppins_regular</item>
     </style>
 
-    <style name="TextAppearance.Theme.Civilian.CPR.Overline" parent="TextAppearance.MaterialComponents.Overline">
+    <style name="TextAppearance.Theme.CivilianCPR.Overline" parent="TextAppearance.MaterialComponents.Overline">
         <item name="fontFamily">@font/poppins_regular</item>
     </style>
 

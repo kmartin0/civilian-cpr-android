@@ -15,10 +15,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Civilian.CPR"
+        android:theme="@style/Theme.CivilianCPR"
         android:dataExtractionRules="@xml/backup_descriptor">
         <receiver
-            android:name="com.km.civilian.cpr.receiver.MySmsReceiver"
+            android:name="nl.kmartin.civiliancpr.receiver.MySmsReceiver"
             android:enabled="true"
             android:exported="true"
             android:permission="android.permission.BROADCAST_SMS">
@@ -27,7 +27,7 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name="com.km.civilian.cpr.ui.MainActivity"
+        <activity android:name="nl.kmartin.civiliancpr.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

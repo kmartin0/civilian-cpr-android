@@ -7,7 +7,7 @@
 
         <variable
             name="viewModel"
-            type="com.km.civilian.cpr.ui.messagesList.MessageListViewModel" />
+            type="nl.kmartin.civiliancpr.ui.messagesList.MessageListViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

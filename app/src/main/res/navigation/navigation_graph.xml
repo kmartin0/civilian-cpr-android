@@ -5,7 +5,7 @@
 
     <fragment
         android:id="@+id/smsListFragment"
-        android:name="com.km.civilian.cpr.ui.messagesList.MessageListFragment"
+        android:name="nl.kmartin.civiliancpr.ui.messagesList.MessageListFragment"
         android:label="@string/app_name" />
 
 </navigation>
